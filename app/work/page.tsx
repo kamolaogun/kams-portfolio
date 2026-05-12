@@ -7,7 +7,7 @@ import { Button } from "@/components/ui/button";
 
 const PAGE_HEADER = {
   label: "Work",
-  headline: "Not campaigns. Revenue engines.",
+  headline: "Give me a hard problem. Here's what I built.",
   subheadline:
     "What I was handed. What I did with it. What happened next.",
 };
