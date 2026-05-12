@@ -17,6 +17,7 @@ const caveat = Caveat({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://kamolaogun.com"),
   title: "Kam Olaogun — B2B Marketing Leader",
   description:
     "Revenue-driven B2B marketing leader with 10+ years building GTM engines across SaaS, cybersecurity, fintech, and identity verification.",
@@ -25,6 +26,22 @@ export const metadata: Metadata = {
     description:
       "10+ years building demand generation engines and GTM strategies that create categories and convert pipeline into revenue.",
     type: "website",
+    url: "https://kamolaogun.com",
+    images: [
+      {
+        url: "/headshot.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Kam Olaogun — B2B Marketing Leader",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Kam Olaogun — B2B Marketing Leader",
+    description:
+      "10+ years building demand generation engines and GTM strategies that create categories and convert pipeline into revenue.",
+    images: ["/headshot.jpg"],
   },
 };
 
