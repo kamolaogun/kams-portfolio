@@ -281,7 +281,7 @@ export default function AboutPage() {
             Contact
           </p>
           <h2 className="text-3xl md:text-5xl font-semibold tracking-tighter text-zinc-50 mb-4 max-w-xl leading-tight">
-            My inbox is open. Use it.
+            My inbox is always open.
           </h2>
           <p className="text-base text-zinc-400 mb-12 max-w-lg leading-relaxed">
             Potential hire, advisory work, or you just want to talk through a GTM problem.
