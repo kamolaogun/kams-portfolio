@@ -59,7 +59,7 @@ const ABOUT = {
     email: "kam.olaogun@gmail.com",
     linkedin: "https://www.linkedin.com/in/kam-olaogun-a4a17465/",
     location: "Boston, MA",
-    availability: "Open to Director and CMO-track roles",
+    availability: "Open to Head of Marketing, Head of Demand Gen, and Director-level roles",
   },
 };
 
@@ -324,7 +324,7 @@ export default function AboutPage() {
               {[
                 {
                   title: "Hiring?",
-                  body: "Open to Director and CMO-track roles at Series A to C SaaS companies in cybersecurity or fintech. I want to own pipeline and build the team.",
+                  body: "Open to Head of Marketing, Head of Demand Gen, and Director-level roles at Series A to C SaaS companies in cybersecurity or fintech. I want to own pipeline and build the team.",
                 },
                 {
                   title: "Advisory?",

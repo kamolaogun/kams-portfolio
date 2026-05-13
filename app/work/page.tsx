@@ -108,12 +108,12 @@ const WHATS_NEXT = {
   headline: "The next chapter: early-stage SaaS in cybersecurity or fintech.",
   body: [
     "I don't want to be the tenth marketing leader at a company that already has it figured out. I want to be the person who helps figure it out. I've done it five times and it's the only context where I feel like I'm using everything I've got.",
-    "Specifically: Director or CMO-track at a Series A to C company in cybersecurity, fintech, or adjacent regulated SaaS. Give me pipeline ownership, a team to build, and a number to hit.",
+    "Specifically: Head of Marketing, Head of Demand Gen, or Director-level at a Series A to C company in cybersecurity, fintech, or adjacent regulated SaaS. Give me pipeline ownership, a team to build, and a number to hit.",
   ],
   criteria: [
     { label: "Stage", value: "Series A to C (post-PMF, pre-scale)" },
     { label: "Vertical", value: "Cybersecurity, fintech, identity, or adjacent regulated SaaS" },
-    { label: "Role", value: "Director of Marketing, VP Marketing, or CMO-track" },
+    { label: "Role", value: "Head of Marketing, Head of Demand Gen, or Director of Marketing" },
     { label: "What I own", value: "Full revenue marketing: demand gen, ABM, brand, pipeline, team" },
     { label: "Location", value: "Boston, MA, open to remote-first or hybrid" },
     { label: "Not a fit", value: "Large orgs where marketing is a support function, not a growth driver" },

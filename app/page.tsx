@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button";
 // ─── EDITABLE CONTENT ────────────────────────────────────────────────────────
 
 const HERO = {
-  badge: "Actively looking · Sr. Manager, Director, and CMO-track roles",
+  badge: "Actively looking · Head of Marketing, Head of Demand Gen, or Director-level roles",
   headline: ["The marketer", "who builds", "the engine."],
   subheadline:
     "I've spent 10 years being handed situations with no playbook: no team, no category, broken pipeline. I tend to like those problems. I've built $170M worth of pipeline solving them, mostly in cybersecurity and fintech.",
@@ -340,7 +340,7 @@ export default function HomePage() {
             Still reading? Let&apos;s talk.
           </h2>
           <p className="text-lg text-zinc-400 mb-10 max-w-xl mx-auto leading-relaxed">
-            Director and CMO-track roles at Series A to C companies in cybersecurity or fintech.
+            Head of Marketing, Head of Demand Gen, or Director-level roles at Series A to C companies in cybersecurity or fintech.
             Give me a hard pipeline problem and a team to build. That&apos;s where I do my best work.
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-3">
